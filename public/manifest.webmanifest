@@ -1,0 +1,26 @@
+{
+  "name": "بوصلة — إدارة الأهداف بهدوء",
+  "short_name": "بوصلة",
+  "description": "من كثرة ما تريده، إلى أعرف ماذا أريد وأولويتي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
